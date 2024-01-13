@@ -9,10 +9,14 @@
  *          {0, in} if sel == 1
  */
 
+// COST = 5 NAND Gates
+
 CHIP DMux {
     IN in, sel;
     OUT a, b;
 
     PARTS:
-    // Put your code here:
+    Not(in=sel,out=SEL);
+    And(a=in,b=SEL,out=a);
+    And(a=in,b=sel,out=b);
 }
