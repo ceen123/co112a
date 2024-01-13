@@ -5,6 +5,8 @@ the result of test.sasm
 #### test2
 ![test2](https://github.com/ceen123/co112a/blob/fcadb2e5e4a4a673a3ba762edc899d9b81ac8e0e/midterm/1.PNG)
 
+i learned how to create a stack virtual machine by following the guide in these videos
+
 Refrence:
 * https://www.youtube.com/watch?v=BNXP0w4Ppto&list=PLSiFUSQSRYAOFwfP-aMzXJlWKVyIuWfPU&index=4&ab_channel=PhilipBohun
 * https://www.youtube.com/watch?v=Dw9URS-s9M8&list=PLSiFUSQSRYAOFwfP-aMzXJlWKVyIuWfPU&index=3
